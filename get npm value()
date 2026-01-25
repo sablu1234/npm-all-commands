@@ -1,0 +1,11 @@
+#amara jodi npm ar set kora value command diye dekte chai 
+
+1.authoer name dekte (config likhe dekte pari)
+short=> npm get init-author-name
+logn => npm config get init-author-name
+
+2.amra jodi author name command diye delete korte chai 
+npm config delete init-author-name
+
+3.amra jodi lisence delte korte chai command diye (sora sori dekha jabe na package delete kore abar npm init -y ())
+npm config delete init-licese
