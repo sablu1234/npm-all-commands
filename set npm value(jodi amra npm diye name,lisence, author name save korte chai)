@@ -1,0 +1,8 @@
+#amra jodi package author name change korte chai 
+npm config set init-author-name "Brad Travers"
+
+#amra kono kisu set korar somoi "config" na lekleo chole(lisence set)
+npm set init-license "MIT"
+
+#amar jodi kono kisu set kori sorasori ta dekha na geleo package delete kore jodi abar ata dei (sob chage value update dekhabe)
+npm init -y
