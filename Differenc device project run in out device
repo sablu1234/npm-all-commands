@@ -1,0 +1,6 @@
+#jodi alada kono device ar npm project amader computer a run korte chai (mone rakte move amra jokhon kono file copy kori amra node_modules copy kori na) amra "node_modules" bad baki file gulo niye asi then 
+#frist a dekte hobe package.json ase kina. next(cd likhe jeta copy korbo ai file ar path dite hobe path payar jonno)
+cd C:\Users\DCL\OneDrive\Desktop\my project\practice\npmapp
+
+#main path a asle
+npm i
