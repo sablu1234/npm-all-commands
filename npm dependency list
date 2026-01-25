@@ -1,0 +1,8 @@
+#amra jodi amader npm ar dependency package list dekte chai (duita upai ase 1st ta jodi list besi boro hoi puro deka jabe na ar jonno second command use korte hobe)
+short list=> npm list
+
+#dependency besi borl hole ata use korte hobe akhane list koto step vetorer devendency dekhabe ta bole dite hobe (ex: 1)
+long => npm list --depth 1
+
+#jodi sudhu amar project ar dependency dekte chai 
+npm list --depth 0
