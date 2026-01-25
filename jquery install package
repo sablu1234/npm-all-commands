@@ -2,4 +2,6 @@
 short => npm i jquery
 long => npm install jquery
 
-
+#amata jodi comamnd diye jquery uninstall korte chai 
+short => npm uninstall jquery
+long => npm un jquery
