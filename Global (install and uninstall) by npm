@@ -1,0 +1,8 @@
+#npm gulp niye kaj korte hole npm global package 
+#gulp intalll (local and global)
+local => npm i gulp
+global => npm i gulp -g
+global logn => npm i gulp -global
+
+#global package uninstall gulp
+npm un gulp -global
