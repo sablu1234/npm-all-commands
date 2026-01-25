@@ -1,0 +1,5 @@
+#amara jodi kono package ar spacific version install dite chai
+npm i jquery@3.0.0
+
+#akhon dhoro major number 3 chao but minor or pach number update chao tobe
+npm i jquery@3
