@@ -1,0 +1,6 @@
+#amara amader amon kisu jinis ja developnet a sob thik ase naki check korte kaje lage but site live hole dorker nai ai sob file ke ( dev dependency ) file bole
+#ata akta dev dependency tool(browser-sync) install korte 
+npm i browser-sync
+#but dev tool hisabe install korte 
+long => npm i browser-sync --save-dev
+long => npm i browser-sync -D
