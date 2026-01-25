@@ -1,0 +1,20 @@
+****amara jodi one command a npm run korte chai
+short => npm init -y
+
+1.npm version check => 
+short => npm -v
+long => npm -version
+2.jodi help page chai =>
+short => npm
+long => npm help
+3. all clear korte 
+Ctrl + L press
+3.crate npm script easily=> ata korar age dekhe nibe je file a korso oi path a aso kina===========================================start here new package
+npm init (ar pore koyekta step asbe tmi chile enter diye jete paro tahole default value nibe or tmi value diteo paro())
+description: simple sample app
+entry point:(index.js) (tmi chaile alada kisu dite paro)
+autor: Brad Traversy
+lisence:(ISC)(tmi chile tomar linsence dite paro)MIT
+
+4.amara jodi one command a npm run korte chai
+short => npm init -y
